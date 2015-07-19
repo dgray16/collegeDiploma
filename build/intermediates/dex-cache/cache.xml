@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\CVPCschedule\Schedule\build\intermediates\pre-dexed\debug\volley-e4059501f02b649d96900e090cab5df5466196de.jar"
+        jar="C:\Users\Administrator\AndroidStudioProjects\CVPCschedule\Schedule\libs\volley.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="089ca8147c0216f1917d676855d3d3d9cac65cdd"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\CVPCschedule\Schedule\build\intermediates\pre-dexed\debug\support-v4-19.1.0-fcc64f948f83a11c0f184cdd4ed814908087b672.jar"
+        jar="E:\Program Files\Android SDK\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Administrator\AndroidStudioProjects\CVPCschedule\Schedule\build\intermediates\pre-dexed\debug\support-v13-19.1.0-7bca85934dd46f2882097733e6a5f7d5f33f5193.jar"
+        jar="E:\Program Files\Android SDK\sdk\extras\android\m2repository\com\android\support\support-v13\19.1.0\support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c"/>
+
+</pre-dex-items>

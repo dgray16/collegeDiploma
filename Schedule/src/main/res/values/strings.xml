@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_ua">Мій розклад</string>
+    <string name="full_app_name_ua">Розклад занять ДВНЗ Чернівецький політехнічний коледж</string>
+    <string name="main_app_name_ua">Розклад занять</string>
+    <string name="action_about_ua">Про додаток</string>
+    <string name="action_time_ua">Розклад дзвінків</string>
+    <string name="action_prev_week_ua">Попередній тиждень</string>
+    <string name="action_next_week_ua">Наступний тиждень</string>
+    <string name="action_refresh_ua">Оновити</string>
+    <string name="action_change_account_ua">Змінити обліковий запис</string>
+
+    <string name="title_section1_ua">Понеділок</string>
+    <string name="title_section2_ua">Вівторок</string>
+    <string name="title_section3_ua">Середа</string>
+    <string name="title_section4_ua">Четвер</string>
+    <string name="title_section5_ua">П`ятниця</string>
+    <string name="title_section6_ua">Субота</string>
+    <string name="order_ua">№</string>
+    <string name="name_ua">Назва пари:</string>
+    <string name="place_ua">Ауд (К):</string>
+    <string name="sign_in_ua">Авторизуватись</string>
+    <string name="action_authorization_ua">Авторизація</string>
+    <string name="remember_checkbox_ua">Зберегти пароль</string>
+    <string name="login_hint_ua">Введіть пароль</string>
+
+    <string name="standartPair_ua">Звичний  розклад дзвінків:</string>
+    <string name="shortPair_ua">Скорочений розклад дзвінків:</string>
+
+    <string name="pair1_uk">1 pair:</string>
+    <string name="pair2_uk">2 pair:</string>
+    <string name="pair3_uk">3 pair:</string>
+    <string name="pair4_uk">4 pair:</string>
+
+    <string name="pair1Begin">08:30 -</string>
+    <string name="stPair1End">09:50</string>
+    <string name="stPair2Beg">10:10 -</string>
+    <string name="stPair2End">11:30</string>
+    <string name="stPair3Beg">11:50 -</string>
+    <string name="stPair3End">13:10</string>
+    <string name="stPair4Beg">13:30 -</string>
+    <string name="stPair4End">14:50</string>
+
+    <string name="shPair1End">09:30</string>
+    <string name="shPair2Beg">09:50 -</string>
+    <string name="shPair2End">10:50</string>
+    <string name="shPair3Beg">11:10 -</string>
+    <string name="shPair3End">12:10</string>
+    <string name="shPair4Beg">12:30 -</string>
+    <string name="shPair4End">13:30</string>
+
+
+    <string name="pair1_ua">Пара №1</string>
+    <string name="pair2_ua">Пара №2</string>
+    <string name="pair3_ua">Пара №3</string>
+    <string name="pair4_ua">Пара №4</string>
+
+    <string name="copyright_ua">Перебиківський Володимир, 2014</string>
+
+
+
+</resources>

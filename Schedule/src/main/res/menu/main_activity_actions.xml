@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_previous_week"
+        android:icon="@drawable/ic_action_previous_item"
+        android:title="@string/action_prev_week_ua"
+        android:showAsAction="always"/>
+
+    <item android:id="@+id/action_next_week"
+        android:icon="@drawable/ic_action_next_item"
+        android:title="@string/action_next_week_ua"
+        android:showAsAction="always"/>
+
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/action_refresh_ua"
+        android:showAsAction="ifRoom"/>
+</menu>

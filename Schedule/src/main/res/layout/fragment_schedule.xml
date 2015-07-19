@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cvpc.schedule.MainActivity$PlaceholderFragment">
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_below="@id/date"
+            android:text="@string/order_ua"
+            android:layout_marginLeft="5dp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_below="@+id/date"
+            android:layout_centerHorizontal="true"
+            android:text="@string/name_ua"
+            android:paddingRight="75dp"
+            android:paddingLeft="55dp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_above="@+id/lessonList"
+            android:layout_alignRight="@+id/lessonList"
+            android:layout_alignEnd="@+id/lessonList"
+            android:text="@string/place_ua"
+            android:layout_marginRight="2dp">
+        </TextView>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lessonList"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/order" />
+
+</RelativeLayout>

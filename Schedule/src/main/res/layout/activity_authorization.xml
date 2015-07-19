@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:layout_width="184dp"
+        android:layout_height="260dp"
+        android:id="@+id/collegeLogo"
+        android:src="@drawable/college_logo"
+        android:layout_gravity="center_horizontal|top" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberPassword"
+        android:ems="10"
+        android:id="@+id/password"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:hint="@string/login_hint_ua" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:gravity="center_horizontal">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/remember_checkbox_ua"
+            android:id="@+id/rememberCheckBox"
+            android:singleLine="false"
+            android:checked="false"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_horizontal"
+            android:minHeight="45dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_in_ua"
+            android:id="@+id/checkButton"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="25dp"
+            android:singleLine="true"
+            android:textAlignment="center" />
+
+    </LinearLayout>
+
+</FrameLayout>
